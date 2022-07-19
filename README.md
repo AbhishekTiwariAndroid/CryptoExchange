@@ -11,6 +11,12 @@
 Created Realtime bitcoin price tracker App from Binance Webocket . 
 
 
+
+## ScreenShots
+
+<img src="https://user-images.githubusercontent.com/42689087/179701836-6c672346-4759-45f0-9b02-2b73106fd370.png" width="240"/>  <img src="https://user-images.githubusercontent.com/42689087/179704433-148901ca-7dfe-4422-a987-052da76f7ee6.png" width="240"/> <img src="https://user-images.githubusercontent.com/42689087/179704491-80a1ca62-a463-4a2b-8ec0-4b90d48d00d2.png" width="240"/> <img src="https://user-images.githubusercontent.com/42689087/179704924-f9cec8d5-64fe-49e0-948e-ec84b5b842b0.png" width="240"/> 
+
+
 ## Built With 🛠
 
 
